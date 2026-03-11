@@ -86,7 +86,7 @@ This laboratory experiment demonstrates frequency shift keying (FSK), where digi
 
 ### FSK Characteristics
 - FSK uses two different frequencies to represent binary data.
-- Logic 1 is represented by a higher frequency and Logic 0 is represented by a lower frequency.
+- Logic 1 is represented by a higher frequency (mark) and Logic 0 is represented by a lower frequency (space).
 - The amplitude of the carrier remains constant.
 - FSK provides better noise immunity than ASK.
   
