@@ -52,17 +52,28 @@ This laboratory experiment introduces amplitude shift keying (ASK), a digital mo
   <summary>Experiment 15 Result</summary>
 
 
-**Part A**
+**Part A Result**
+
+![Experiment 15 ASK](Diagrams/Exp15-Diagrams/Exp15_A.jpg)
 
 
+Step 7: Connect the set-up in Figure 2
+![Experiment 15 ASK](Diagrams/Exp15-Diagrams/Exp15_A7.jpg)
 
-**Part B**
+Step 13: Compare the signals
+![Experiment 15 ASK](Diagrams/Exp15-Diagrams/Exp15_A13.jpg)
 
+
+**Part B Result**
+
+Step 17: Modify the set-up as shown in Figure 6/7
+![Experiment 15 ASK](Diagrams/Exp15-Diagrams/Exp15_B17.jpg)
 
 
 **Part C**
 
-
+Step 20: Set the Variable DC control to the middle
+![Experiment 15 ASK](Diagrams/Exp15-Diagrams/Exp15_C20.jpg)
 
 </details>
 
