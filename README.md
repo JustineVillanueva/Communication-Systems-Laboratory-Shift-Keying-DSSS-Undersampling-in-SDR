@@ -215,7 +215,7 @@ Noise is at -20dB
 </details>
 
 ### Observation
-The experiment demonstrated how digital data can be transmitted by shifting the phase of the carrier signal. A phase reversal of 180° was observed when the input data changed between logic states. This phase change represents the binary information while maintaining constant amplitude and frequency.
+The experiment demonstrated the generation and recovery of a BPSK signal. The carrier phase shifted by 180° according to the input data to produce the BPSK signal. A product detector was then used to demodulate the signal and recover the baseband data. Finally, a comparator restored the recovered signal into a clear digital waveform representing the original binary data.
 
 ---
 ## Laboratory Experiment 18: Quadrature Phase Shift Keying
