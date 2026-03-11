@@ -94,11 +94,52 @@ This laboratory experiment demonstrates frequency shift keying (FSK), where digi
 <details>
   <summary>Experiment 16 Diagram</summary>
 
+
+**Part A: Generating an FSK Signal**
+
+**Figure 16.3: FSK Signal**
+![Experiment 16 Setup](Diagrams/Exp16-Diagrams/Exp16_Fig16.3.jpg)
+
+
+**Part B: Demodulating an FSK signal using filtering and an envelope detector**
+
+**Figure 16.5: FSK Generation-Demodulation**
+![Experiment 16 Setup](Diagrams/Exp16-Diagrams/Exp16_Fig16.5.jpg)
+
+
+**Part C: Restoring the recovered data using a comparator**
+
+**Figure 16.9: FSK Generation-Demodulation-Restoration**
+![Experiment 16 Setup](Diagrams/Exp16-Diagrams/Exp16_Fig16.9.jpg)
+
+
 </details>
 
 ### Oscilloscope Display
 <details>
   <summary>Experiment 16 Result</summary>
+
+
+**Part A Result**
+
+Step 12: Set to dual position to view the Sequence Generator module's output and the FSK Signal
+![Experiment 16 FSK](Simulation/Exp16-Waveforms/Exp16_A12.png)
+
+
+**Part B Result**
+
+Step 18: Turn the Tuneable LPF's cut-off frequency control fully clockwise.
+![Experiment 16 FSK](Simulation/Exp16-Waveforms/Exp16_B18.png)
+
+Step 21: Connect the channel 2 to the envelope detector's output
+![Experiment 16 FSK](Simulation/Exp16-Waveforms/Exp16_B21.png)
+
+
+**Part C Result**
+
+Part C Output
+![Experiment 16 FSK](Simulation/Exp16-Waveforms/Exp16_C_output.png)
+
 
 </details>
 
