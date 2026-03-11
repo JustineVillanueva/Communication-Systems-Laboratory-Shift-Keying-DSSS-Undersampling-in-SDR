@@ -160,11 +160,57 @@ This laboratory experiment focuses on binary phase shift keying (BPSK), where th
 <details>
   <summary>Experiment 17 Diagram</summary>
 
+
+**Part A: Generating a BPSK Signal**
+
+**Figure 17.3: BPSK Generation**
+![Experiment 17 Setup](Diagrams/Exp17-Diagrams/Exp17_Fig17.3.jpg)
+
+
+**Part B: Demodulating a BPSK Signal using a product detector**
+
+**Figure 17.5: BPSK Generation-Product Detection**
+![Experiment 17 Setup](Diagrams/Exp17-Diagrams/Exp17_Fig17.5.jpg)
+
+
+**Part C: Restoring the recovered data using a comparator**
+
+**Figure 17.7: BPSK Generation-Product Detection-Restoration**
+![Experiment 17 Setup](Diagrams/Exp17-Diagrams/Exp17_Fig17.7.jpg)
+
+
 </details>
 
 ### Oscilloscope Display
 <details>
   <summary>Experiment 17 Result</summary>
+
+**Part A Result**
+
+![Experiment 17 BPSK](Simulation/Exp17-Waveforms/Exp17_A.png)
+
+
+**Part B Result**
+
+![Experiment 17 BPSK](Simulation/Exp17-Waveforms/Exp17_B.png)
+
+
+**Part C Result**
+
+![Experiment 17 BPSK](Simulation/Exp17-Waveforms/Exp17_C.png)
+
+
+**Extra Part: Noise**
+
+Noise is at 0dB
+![Experiment 17 BPSK](Simulation/Exp17-Waveforms/Exp17_Noise_0dB.png)
+
+Noise is at -6dB
+![Experiment 17 BPSK](Simulation/Exp17-Waveforms/Exp17_Noise_-6dB.png)
+
+Noise is at -20dB
+![Experiment 17 BPSK](Simulation/Exp17-Waveforms/Exp17_Noise_-20dB.png)
+
 
 </details>
 
