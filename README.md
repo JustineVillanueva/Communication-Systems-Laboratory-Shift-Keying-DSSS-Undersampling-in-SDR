@@ -377,10 +377,10 @@ Step 30: The jamming signal is added by turning the g control clockwise and stop
 
 Step 31: The jamming signal's frequency is varied by turning the VCO frequency adjust control left and right
 Minimum:
-![Experiment 19 DSSS](Simulation/Exp19-Waveforms/Exp19_D31-1.png)
+![Experiment 19 DSSS](Simulation/Exp19-Waveforms/Exp19_D31-1-minfreq.png)
 
 Maximum:
-![Experiment 19 DSSS](Simulation/Exp19-Waveforms/Exp19_D31-2.png)
+![Experiment 19 DSSS](Simulation/Exp19-Waveforms/Exp19_D31-2-maxfreq.png)
 
 Step 34: The jamming signal is increased to maximum by turning the g control fully clockwise
 ![Experiment 19 DSSS](Simulation/Exp19-Waveforms/Exp19_D34.png)
