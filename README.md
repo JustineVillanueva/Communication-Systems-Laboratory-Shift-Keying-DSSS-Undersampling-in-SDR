@@ -37,13 +37,13 @@ This laboratory experiment introduces amplitude shift keying (ASK), a digital mo
 **Part B: Demodulating an ASK signal using an envelope detector**
 
 **Figure 15.7**
-![Experiment 15 Setup](Diagrams/Exp15-Diagrams/Exp15_Fig15.3.jpg)
+![Experiment 15 Setup](Diagrams/Exp15-Diagrams/Exp15_Fig15.7.jpg)
 
 
 **Part C: Restoring the recovered digital signal using a comparator**
 
 **Figure 15.9**
-![Experiment 15 Setup](Diagrams/Exp15-Diagrams/Exp15_Fig15.5.jpg)
+![Experiment 15 Setup](Diagrams/Exp15-Diagrams/Exp15_Fig15.9.jpg)
 
 </details>
 
