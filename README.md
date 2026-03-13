@@ -371,7 +371,7 @@ Step 28: The VCO module is used to generate a variable frequency jamming signal
 Step 29: DSSS signal on Channel 1 and recovered message on Channel 2
 ![Experiment 19 DSSS](Simulation/Exp19-Waveforms/Exp19_D29.png)
 
-Step 30: The jamming signal is added by turning the g control clockwise and stoppin in the middle of its travel
+Step 30: The jamming signal is added by turning the g control clockwise and stopping in the middle of its travel
 ![Experiment 19 DSSS](Simulation/Exp19-Waveforms/Exp19_D30-1.png)
 ![Experiment 19 DSSS](Simulation/Exp19-Waveforms/Exp19_D30-2.png)
 
