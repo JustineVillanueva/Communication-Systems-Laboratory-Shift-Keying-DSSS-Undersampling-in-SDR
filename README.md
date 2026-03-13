@@ -232,6 +232,30 @@ This laboratory experiment introduces quadrature phase shift keying (QPSK), an a
 <details>
   <summary>Experiment 18 Diagram</summary>
 
+**Part A: Generating a QPSK signal**
+
+**Figure 18.4: The data bits is split into a stream of even and odd bits**
+![Experiment 18 Setup](Diagrams/Exp18-Diagrams/Exp18_Fig18.4.jpg)
+
+**Figure 18.6: Even bits to Channel 1 and PSK_I to Channel 2**
+![Experiment 18 Setup](Diagrams/Exp18-Diagrams/Exp18_Fig18.6.jpg)
+
+**Figure 18.8: Odd bits to Channel 1 and PSK_Q to Channel 2**
+![Experiment 18 Setup](Diagrams/Exp18-Diagrams/Exp18_Fig18.8.jpg)
+
+**Figure 18.10: QPSK Modulator**
+![Experiment 18 Setup](Diagrams/Exp18-Diagrams/Exp18_Fig18.10.jpg)
+
+
+
+**Part B: Using phase discrimination to pick-out one of the QPSK signal's BPSK signals**
+
+**Figure 18.12: Implements most of one arm of a QPSK demodulator**
+![Experiment 18 Setup](Diagrams/Exp18-Diagrams/Exp18_Fig18.12.jpg)
+
+**Figure 18.14: The added comparator completes one arm of a QPSK demodulator**
+![Experiment 18 Setup](Diagrams/Exp18-Diagrams/Exp18_Fig18.14.jpg)
+
 </details>
 
 ### Oscilloscope Display
@@ -258,6 +282,28 @@ This laboratory experiment demonstrates direct sequence spread spectrum (DSSS), 
 <details>
   <summary>Experiment 19 Diagram</summary>
 
+**Part A: Generating a DSSS signal using a simple message**
+
+**Figure 19.2: DSSS Signal**
+![Experiment 19 Setup](Diagrams/Exp19-Diagrams/Exp19_Fig19.2.jpg)
+
+
+
+**Part C: Using the product detector to recover the message**
+
+**Figure 19.5: Product Detector**
+![Experiment 19 Setup](Diagrams/Exp19-Diagrams/Exp19_Fig19.5.jpg)
+
+**Figure 19.6: DSSS Modulator - Product Detector**
+![Experiment 19 Setup](Diagrams/Exp19-Diagrams/Exp19_Fig19.6.jpg)
+
+
+
+**Part D: DSSS and deliberate interference (jamming)**
+
+**Figure 19.9: DSSS Modulator - Channel - Product Detector**
+![Experiment 19 Setup](Diagrams/Exp19-Diagrams/Exp19_Fig19.9.jpg)
+
 </details>
 
 ### Oscilloscope Display
@@ -281,6 +327,19 @@ This laboratory experiment explores the concept of undersampling in software def
 ### Circuit Diagram
 <details>
   <summary>Experiment 20 Diagram</summary>
+
+**Part A: Setting up a bandwidth limited signal**
+
+**Figure 20.2: DSBSC Modulator**
+![Experiment 20 Setup](Diagrams/Exp20-Diagrams/Exp20_Fig20.2.jpg)
+
+
+
+**Part B: Direct down-conversion using undersampling**
+
+**Figure 20.4: DSBSC Modulator - Demodulation**
+![Experiment 20 Setup](Diagrams/Exp20-Diagrams/Exp20_Fig20.4.jpg)
+
 
 </details>
 
